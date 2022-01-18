@@ -20,7 +20,7 @@ Rectangle obstacleRect = new Rectangle(200, 50, obstacleImage.width, obstacleIma
 
 List<Rectangle> snowflakes = new List<Rectangle>();
 List<float> snowSpeed = new List<float>();
-Random generator = new Random();
+Random generator = new Random(); 
 
 bool undoX = false;
 bool undoY = false;
